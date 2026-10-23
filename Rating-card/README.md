@@ -24,9 +24,9 @@ An interactive rating component where users can select a rating from 1 to 5 and 
 - Vite
 - pnpm
 
-**Live Demo:** [View Live Site]([ADD_YOUR_VERCEL_URL_HERE](https://frontend-mentor-challenges-beta-eight.vercel.app/))
+**Live Demo:** [View Live Site]((https://frontend-mentor-challenges-beta-eight.vercel.app/))
 
-**Solution:** [View Source Code](./Rating-card)
+**Solution:** [View Source Code]((https://github.com/madhavjha18/frontend-mentor-challenges/tree/main/Rating-card))
 
 ## Getting Started
 
